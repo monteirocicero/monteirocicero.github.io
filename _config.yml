@@ -21,7 +21,7 @@
 title: Codebae
 email: cicerolmonteiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Codebae a awesome blog coding to read.
+  Codebae is a awesome blog coding to read.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cicerolmonteiro
