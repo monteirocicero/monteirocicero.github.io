@@ -21,12 +21,12 @@
 title: Code Trip
 email: cicerolmonteiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Code Trip is a awesome blog coding to read.
+  Code Trip is an awesome blog coding to read.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cicerolmonteiro
 github_username:  https://github.com/monteirocicero
-
+google-site-verification: gRhoQS3lyHtVU_HvFVBKHdeC409F6PGmx52VReKwnB4
 
 # Build settings
 theme: minima
