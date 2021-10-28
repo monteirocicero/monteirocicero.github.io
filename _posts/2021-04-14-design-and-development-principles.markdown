@@ -103,4 +103,8 @@ The main ideia is look around and notice that the simple thing could bring the h
 [https://dzone.com/articles/software-design-principles-dry-and-kiss](https://dzone.com/articles/software-design-principles-dry-and-kiss)<br>
 [https://www.martinfowler.com/bliki/Yagni.html](https://www.martinfowler.com/bliki/Yagni.html)<br>
 [ttps://medium.com/better-programming/yagni-you-aint-gonna-need-it-f9a178cd8e1](https://medium.com/better-programming/yagni-you-aint-gonna-need-it-f9a178cd8e1)<br>
+(https://people.apache.org/~fhanik/kiss.html)<br>
+(https://dzone.com/articles/software-design-principles-dry-and-kiss)<br>
+(https://www.martinfowler.com/bliki/Yagni.html)<br>
+(https://medium.com/better-programming/yagni-you-aint-gonna-need-it-f9a178cd8e1)<br>
 
