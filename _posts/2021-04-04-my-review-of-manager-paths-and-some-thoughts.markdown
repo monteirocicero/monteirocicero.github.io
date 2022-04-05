@@ -5,10 +5,10 @@ date:   2022-04-04 18:02:00 -0300
 categories: leadership
 ---
 
-  <p>Ultimately, I am reading more about leadership and software engineering culture, despite
+  <p>Ultimately, I've been reading more about leadership and software engineering culture, despite
 I am an individual contributor with a focus on coding, I think it's important for a senior engineer
 learn about several aspects that are tangible in your daily job, and leadership and management it's one.</p>
-  <p>What surprised me in the book is the role of the Technical Leader(aka Tech Lead). I always
+  <p>What surprised me about the book is the role of the Technical Leader(aka Tech Lead). I've always
 imagined that the person in this role is the most technically smart, but it is a leadership role,
 and such, needs other skills such as software architecture, good team player, technical decision, clean
 communication, and management project. So the major time of a Tech Lead is to understand what it should do and
@@ -52,7 +52,7 @@ The author of the book says these two roles change very much depending on the co
 is a strategic role at a certain point, but looking at engineering teams. So, probably these two people working very close.</p>
 
 <h1>Conclusion</h1>
-<p>Lastly, I like the book. It is very useful and interesting to read, your language is fluent to follow and at some moments, I feel like a monolog of the author speaking what she is made to achieve the CTO role from an individual contributor.
+<p>Lastly, I liked the book. It is very useful and interesting to read, your language is fluent to follow and at some moments, I feel like a monolog of the author speaking what she is made to achieve the CTO role from an individual contributor.
 Of course, that book has other nuances and subjects to discuss. But, that's was my highlight from the book. Now I'm an individual contributor, ultimately I'm working on understanding more about leadership roles to maybe one day make this transition much easier.</p>
 <p>It's a great book for aspiring managers and leadership role, and curious about what do a manager.</p>
 
